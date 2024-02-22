@@ -18,10 +18,10 @@
 'sa5ef80b4bb9b39f8': `Küçült`,
 'sa7551383d1897fcc': `2) Dock’a ekleye basın`,
 'sba52286c21552a4e': `Daha iyi bir deneyim ve kolay erişim için cihazınıza yükleyin.`,
-'sc79fd7641eb9a975': `Talimatları gizle`,
 'scdaf4bbff76674c8': `Ana Ekrana Ekle`,
 'sdfe23506a3b0cdc8': `1) Safari tarayıcısında açın`,
 'se740f75b95a51807': `Daha iyi bir deneyim ve kolay erişim için Dock’a ekleyin.`,
+'see440520357a3532': `Talimatları gizle`,
 'sfea652f6580ff086': `Bu site uygulama işlevselliğine sahiptir.`,
     };
   

@@ -74,7 +74,7 @@ const template = (name: string, description: string, installDescription: string,
                         }
                     </button>`:''}
                     <button class="dialog-button button install" @click=${howToForApple}>
-                        <span class="button-text ${howToRequested? 'show': 'hide'}">${msg('Hide Instruction')}</span>
+                        <span class="button-text ${howToRequested? 'show': 'hide'}">${msg('Hide Instructions')}</span>
                         <span class="button-text ${howToRequested? 'hide': 'show'}">
                             <span>${isDesktop? msg('Add to Dock'): msg('Add to Home Screen')}</span>
                             <svg viewBox="0 0 25 25">

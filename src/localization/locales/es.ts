@@ -18,10 +18,10 @@
 'sa5ef80b4bb9b39f8': `Menos`,
 'sa7551383d1897fcc': `2) Presionar Añadir al Dock`,
 'sba52286c21552a4e': `Instálalo en tu dispositivo para una experiencia amplia y acceso fácil.`,
-'sc79fd7641eb9a975': `Esconder instrucciones`,
 'scdaf4bbff76674c8': `Añadir a pantalla de inicio`,
 'sdfe23506a3b0cdc8': `1) Abrir en el navegador web Safari`,
 'se740f75b95a51807': `Añádelo a tu Dock para una experiencia amplia y acceso fácil.`,
+'see440520357a3532': `Esconder instrucciones`,
 'sfea652f6580ff086': `Este sitio tiene funcionalidad de aplicación.`,
     };
   

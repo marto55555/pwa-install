@@ -18,10 +18,10 @@
 'sa5ef80b4bb9b39f8': `Mniej`,
 'sa7551383d1897fcc': `2) Wybierz "Dodaj do Docka"`,
 'sba52286c21552a4e': `Zainstaluj na swoim urządzeniu, aby uzyskać bogate doświadczenie i łatwy dostęp.`,
-'sc79fd7641eb9a975': `Ukryj instrukcję`,
 'scdaf4bbff76674c8': `Dodaj do Ekranu Głównego`,
 'sdfe23506a3b0cdc8': `1) Otwórz przeglądarkę Safari`,
 'se740f75b95a51807': `Dodaj do swojego Docka, aby uzyskać bogate doświadczenie i łatwy dostęp.`,
+'see440520357a3532': `Ukryj instrukcję`,
 'sfea652f6580ff086': `Ta strona posiada funkcje aplikacji.`,
     };
   

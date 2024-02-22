@@ -38,12 +38,12 @@
         <source>This site has app functionality.</source>
         <target>Este sitio tiene funcionalidad de aplicación.</target>
       </trans-unit>
-      <trans-unit id="se740f75b95a51807">
-        <source>Add it to your Dock for extensive experience and easy access.</source>
+      <trans-unit id="s1431faac1f54cde3">
+        <source>Add it to your Dock for a better experience and quicker access.</source>
         <target>Añádelo a tu Dock para una experiencia amplia y acceso fácil.</target>
       </trans-unit>
-      <trans-unit id="s182ab2d6c997515f">
-        <source>Add it to your Home Screen for extensive experience and easy access.</source>
+      <trans-unit id="s8462fbd1f5c45d3b">
+        <source>Add it to your Home Screen for a better experience and quicker access.</source>
         <target>Añádelo a tu pantalla de inicio para una experiencia amplia y acceso fácil.</target>
       </trans-unit>
       <trans-unit id="sa7551383d1897fcc">
@@ -54,8 +54,8 @@
         <source>Add to Dock</source>
         <target>Añadir al Dock</target>
       </trans-unit>
-      <trans-unit id="sba52286c21552a4e">
-        <source>Install it on your device for extensive experience and easy access.</source>
+      <trans-unit id="sbee26129cda85a3e">
+        <source>Install it on your device for a better experience and quicker access.</source>
         <target>Instálalo en tu dispositivo para una experiencia amplia y acceso fácil.</target>
       </trans-unit>
     </body>

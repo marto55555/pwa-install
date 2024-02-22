@@ -23,7 +23,7 @@ const template = (name: string, description: string, installDescription: string,
                     <div class="description">${description || location.hostname}</div>
                 </div>
                 ${!disableDescription? html`<div class="welcome-to-install">
-                    ${installDescription? installDescription: `${msg('This site has app functionality.')} ${isDesktop? msg('Add it to your Dock for extensive experience and easy access.') : msg('Add it to your Home Screen for extensive experience and easy access.')}`}</div>` 
+                    ${installDescription? installDescription: `${msg('This site has app functionality.')} ${isDesktop? msg('Add it to your Dock for a better experience and quicker access.') : msg('Add it to your Home Screen for a better experience and quicker access.')}`}</div>` 
                 : '' }
                 <div class="how-to-body">
                     <div class="how-to-description">
